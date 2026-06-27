@@ -51,7 +51,7 @@ View the interactive dashboard here:
 
 ### Executive Summary
 ### Executive Summary
-![Executive Summary](images/1-Executive Summary.png)
+![Executive Summary]https://github.com/hamadn00-data/Cyclistic-Bike-Ride-Analysis/blob/main/images/1-Executive%20Summary.PNG
 
 ### Monthly Analysis
 ![Monthly Analysis](images/monthly-analysis.png)
