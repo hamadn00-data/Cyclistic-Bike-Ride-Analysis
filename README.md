@@ -61,5 +61,7 @@ View the interactive dashboard here:
 ## Author
 
 **Hamaad Nasir**
-Aspiring Data Analyst
 
+Aspiring Data Analyst passionate about Excel, SQL, Python, Power BI, and Data Visualization.
+
+GitHub: https://github.com/hamadn00-data
