@@ -54,7 +54,7 @@ View the interactive dashboard here:
 ![Executive Summary]https://github.com/hamadn00-data/Cyclistic-Bike-Ride-Analysis/blob/main/images/1-Executive%20Summary.PNG
 
 ### Monthly Analysis
-![Monthly Analysis](images/monthly-analysis.png)
+![Monthly Analysis]https://github.com/hamadn00-data/Cyclistic-Bike-Ride-Analysis/blob/main/images/2-Per%20Month.PNG
 
 ### Weekly Analysis
 ![Weekly Analysis](images/weekly-analysis.png)
